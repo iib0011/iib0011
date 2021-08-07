@@ -3,24 +3,24 @@
 <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteriib0011?label=Follow)](https://twitter.com/intent/follow?screen_name=misteriib0011)
+[![Linkedin: iib0011](https://img.shields.io/badge/-iib0011-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iib0011/)](https://www.linkedin.com/in/iib0011/)
+![GitHub followers](https://img.shields.io/github/followers/iib0011?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://iib0011singh.me/)](https://iib0011singh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=iib0011)
+![Waka Readme](https://github.com/iib0011/iib0011/workflows/Waka%20Readme/badge.svg)
 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx iib0011
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+**👆 This command line tool can be found at [npx iib0011](https://github.com/iib0011/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const iib0011 = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "Swift", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
@@ -119,10 +119,10 @@ Dart                     4 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
 
 
  Last Updated on 07/08/2021
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
