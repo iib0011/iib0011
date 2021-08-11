@@ -18,39 +18,39 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 408 Contributions in the Year 2021
+> 🏆 422 Contributions in the Year 2021
  > 
-> 📦 108.2 kB Used in Github's Storage 
+> 📦 108.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+> 🔑 18 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    66 commits     ██████░░░░░░░░░░░░░░░░░░░   23.91% 
-🌆 Daytime    75 commits     ██████░░░░░░░░░░░░░░░░░░░   27.17% 
-🌃 Evening    61 commits     █████░░░░░░░░░░░░░░░░░░░░   22.1% 
-🌙 Night      74 commits     ██████░░░░░░░░░░░░░░░░░░░   26.81%
+🌞 Morning    72 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+🌆 Daytime    80 commits     ███████░░░░░░░░░░░░░░░░░░   27.78% 
+🌃 Evening    62 commits     █████░░░░░░░░░░░░░░░░░░░░   21.53% 
+🌙 Night      74 commits     ██████░░░░░░░░░░░░░░░░░░░   25.69%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.2% 
-Tuesday      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-Wednesday    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-Thursday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.23% 
-Friday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
-Saturday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.06%
+Monday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.4% 
+Tuesday      54 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Wednesday    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
+Thursday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
+Friday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
+Saturday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.68%
 
 ```
 
@@ -94,7 +94,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/08/2021
+ Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
