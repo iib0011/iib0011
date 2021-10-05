@@ -15,7 +15,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
@@ -91,7 +91,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2021
+ Last Updated on 05/10/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
