@@ -15,13 +15,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 676 Contributions in the Year 2021
+> 🏆 677 Contributions in the Year 2021
  > 
 > 📦 108.5 kB Used in GitHub's Storage 
  > 
@@ -44,8 +44,8 @@
 
 ```text
 Monday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
-Tuesday      87 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
-Wednesday    75 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
+Tuesday      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
+Wednesday    76 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.03% 
 Thursday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 Friday       61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
 Saturday     66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
@@ -60,9 +60,9 @@ Sunday       36 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-JavaScript               51 mins             ███████████░░░░░░░░░░░░░░   43.72% 
-TypeScript               31 mins             ██████░░░░░░░░░░░░░░░░░░░   26.54% 
-Java                     28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.85% 
+JavaScript               51 mins             ███████████░░░░░░░░░░░░░░   43.66% 
+TypeScript               31 mins             ██████░░░░░░░░░░░░░░░░░░░   26.57% 
+Java                     28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.88% 
 HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
 
@@ -92,7 +92,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/10/2021
+ Last Updated on 27/10/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
