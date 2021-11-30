@@ -1,5 +1,5 @@
 <h2>Hi🙏🏻, I'm Ibrahima! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer 
 </em></p>
 
 
