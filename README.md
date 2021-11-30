@@ -15,19 +15,19 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 747 Contributions in the Year 2021
+> 🏆 748 Contributions in the Year 2021
  > 
 > 📦 108.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 30 Private Repositories  
  > 
@@ -60,18 +60,18 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Docker                   55 mins             █████████░░░░░░░░░░░░░░░░   36.07% 
-Java                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.54% 
-Properties               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.28% 
-Batchfile                21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
+Properties               50 mins             ██████████░░░░░░░░░░░░░░░   40.38% 
+Docker                   47 mins             █████████░░░░░░░░░░░░░░░░   37.79% 
+Java                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88%
 
 🔥 Editors: 
-IntelliJ                 2 hrs 29 mins       ████████████████████████░   97.66% 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
+IntelliJ                 1 hr 59 mins        ███████████████████████░░   95.25% 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.75%
 
 💻 Operating System: 
-Windows                  2 hrs 33 mins       █████████████████████████   100.0%
+Windows                  2 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
@@ -92,7 +92,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/11/2021
+ Last Updated on 30/11/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
