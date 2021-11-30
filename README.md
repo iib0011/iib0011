@@ -1,4 +1,4 @@
-<h2>Hi🙏🏻, I'm Ibrahima! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi🙏🏻, I'm Ibrahima! </h2>
 <p><em>Software Engineer 
 </em></p>
 
