@@ -64,7 +64,7 @@ Java                     1 hr 38 mins        █████████░░�
 XML                      1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   36.35% 
 JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.24% 
 YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.45%
 
 🔥 Editors: 
 IntelliJ                 4 hrs 4 mins        ███████████████████████░░   91.89% 
@@ -93,7 +93,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/12/2021
+ Last Updated on 11/12/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
