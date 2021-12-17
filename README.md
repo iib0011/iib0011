@@ -1,4 +1,4 @@
-<h2>Hi🙏🏻, I'm Ibrahima! </h2>
+<h2>Hi, I'm Ibrahima! </h2>
 <p><em>Software Engineer 
 </em></p>
 
