@@ -15,7 +15,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -60,17 +60,17 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-TypeScript               1 hr 27 mins        ███████████████████░░░░░░   76.97% 
-JavaScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.83% 
-Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
+TypeScript               38 mins             ███████████████░░░░░░░░░░   59.81% 
+JavaScript               16 mins             ██████░░░░░░░░░░░░░░░░░░░   26.12% 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.61% 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
 
 🔥 Editors: 
-IntelliJ                 1 hr 53 mins        █████████████████████████   100.0%
+IntelliJ                 1 hr 3 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 53 mins        █████████████████████████   100.0%
+Windows                  1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
@@ -91,7 +91,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
