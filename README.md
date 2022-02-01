@@ -60,13 +60,17 @@ Sunday       40 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               31 mins             ███████████░░░░░░░░░░░░░░   47.49% 
+TypeScript               30 mins             ███████████░░░░░░░░░░░░░░   45.76% 
+SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 6 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 6 mins         █████████████████████████   100.0%
 
 ```
 
@@ -87,7 +91,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2022 01:03:47 UTC
+ Last Updated on 01/02/2022 01:08:39 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
