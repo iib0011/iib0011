@@ -21,7 +21,7 @@
 
 > 🏆 755 Contributions in the Year 2022
  > 
-> 📦 196.6 kB Used in GitHub's Storage 
+> 📦 196.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,17 +58,13 @@ Sunday       91 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-TypeScript               15 mins             █████████░░░░░░░░░░░░░░░░   38.12% 
-JSON                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   26.84% 
-JavaScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-Git Config               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.97%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -89,7 +85,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/06/2022 01:59:57 UTC
+ Last Updated on 28/06/2022 01:57:13 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
