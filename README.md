@@ -58,13 +58,17 @@ Sunday       90 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      1 hr 34 mins        ██████████████████░░░░░░░   73.06% 
+TypeScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
+Java                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85% 
+Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 2 hrs 9 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +89,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 02:03:53 UTC
+ Last Updated on 23/07/2022 01:58:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
