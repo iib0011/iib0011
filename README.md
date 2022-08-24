@@ -15,17 +15,17 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-976%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-976%20hrs%2032%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 785 Contributions in the Year 2022
+> 🏆 786 Contributions in the Year 2022
  > 
 > 📦 197.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 38 Private Repositories  
  > 
@@ -58,17 +58,17 @@ Sunday       93 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-TypeScript               22 hrs 38 mins      ██████████████████░░░░░░░   72.24% 
-JavaScript               5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
-SCSS                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
-JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.71% 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+TypeScript               17 hrs 46 mins      ██████████████████░░░░░░░   71.81% 
+JavaScript               5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47% 
+JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.19% 
+SCSS                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-IntelliJ                 31 hrs 21 mins      █████████████████████████   100.0%
+IntelliJ                 24 hrs 44 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  31 hrs 21 mins      █████████████████████████   100.0%
+Windows                  24 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
@@ -89,7 +89,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/08/2022 02:09:43 UTC
+ Last Updated on 24/08/2022 02:06:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
