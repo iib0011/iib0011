@@ -15,15 +15,15 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C629%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C625%20hrs%2022%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 41 Contributions in the Year 2023
+> 🏆 42 Contributions in the Year 2023
  > 
 > 📦 197.1 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 46 Public Repositories 
  > 
@@ -90,7 +90,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/iib0011/iib0011/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/01/2023 17:04:19 UTC
+ Last Updated on 19/01/2023 01:07:33 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
