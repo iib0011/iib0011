@@ -15,13 +15,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C009%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C012%20hrs%205%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 197.2 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2023
+> 🏆 616 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -56,17 +56,17 @@ Sunday                   1194 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     3 hrs 56 mins       ████████████░░░░░░░░░░░░░   47.73 % 
-SQL                      1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-JavaScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Groovy                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-XML                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Java                     5 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.87 % 
+XML                      1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+SQL                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+JavaScript               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Groovy                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 🔥 Editors: 
-IntelliJ                 8 hrs 15 mins       █████████████████████████   100.00 % 
+IntelliJ                 10 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +86,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2023 00:57:50 UTC
+ Last Updated on 14/04/2023 00:58:16 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
