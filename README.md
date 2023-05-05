@@ -15,17 +15,17 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C032%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C034%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 244.8 kB Used in GitHub's Storage 
  > 
-> 🏆 629 Contributions in the Year 2023
+> 🏆 630 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 43 Private Repositories 
  > 
@@ -56,17 +56,17 @@ Sunday                   1196 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     4 hrs 13 mins       ███████████████░░░░░░░░░░   59.30 % 
-SQL                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-JavaScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Log                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Properties               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Java                     6 hrs 3 mins        █████████████████░░░░░░░░   66.53 % 
+SQL                      1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+JavaScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Properties               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Log                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-IntelliJ                 7 hrs 7 mins        █████████████████████████   100.00 % 
+IntelliJ                 9 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  9 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +86,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2023 00:59:24 UTC
+ Last Updated on 05/05/2023 00:55:43 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
