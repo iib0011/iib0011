@@ -60,7 +60,7 @@ Java                     4 hrs 58 mins       ████████░░░�
 JavaScript               4 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
 SQL                      2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 Other                    1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-XML                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+XML                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
 IntelliJ                 14 hrs 49 mins      █████████████████████████   98.17 % 
@@ -87,7 +87,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2023 00:50:25 UTC
+ Last Updated on 22/08/2023 00:51:22 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
