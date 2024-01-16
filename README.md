@@ -15,7 +15,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C857%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C857%20hrs%2032%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,11 +73,11 @@ Windows                  16 hrs 27 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               27 repos            ██████████░░░░░░░░░░░░░░░   39.71 % 
-Java                     21 repos            ████████░░░░░░░░░░░░░░░░░   30.88 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-PLpgSQL                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JavaScript               27 repos            ██████████░░░░░░░░░░░░░░░   40.30 % 
+Java                     21 repos            ████████░░░░░░░░░░░░░░░░░   31.34 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+PLpgSQL                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 
 
@@ -87,7 +87,7 @@ PLpgSQL                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2024 00:59:42 UTC
+ Last Updated on 16/01/2024 00:56:26 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
