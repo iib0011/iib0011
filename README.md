@@ -15,7 +15,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C206%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C208%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,17 +54,17 @@ Sunday                   1739 commits        ████░░░░░░░�
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-TypeScript               13 hrs 35 mins      ██████████████░░░░░░░░░░░   54.21 % 
-Java                     7 hrs               ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-JavaScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-GitIgnore file           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               12 hrs 46 mins      █████████████░░░░░░░░░░░░   53.21 % 
+Java                     6 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+JSON                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+JavaScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+GitIgnore file           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-Intellijidea             25 hrs 4 mins       █████████████████████████   100.00 % 
+Intellijidea             23 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  23 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +84,7 @@ PLpgSQL                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2024 00:55:05 UTC
+ Last Updated on 05/04/2024 00:54:04 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
