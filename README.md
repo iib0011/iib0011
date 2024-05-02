@@ -15,11 +15,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C285%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C285%20hrs%2011%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 308.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 686 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -54,17 +56,17 @@ Sunday                   1969 commits        ████░░░░░░░�
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-JavaScript               1 hr 53 mins        ██████████████░░░░░░░░░░░   56.31 % 
-TypeScript               47 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-Java                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-SQL                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+JavaScript               1 hr 53 mins        ██████████████░░░░░░░░░░░   56.06 % 
+TypeScript               47 mins             ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+Java                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+SQL                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Intellijidea             3 hrs 21 mins       █████████████████████████   100.00 % 
+Intellijidea             3 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +86,7 @@ PLpgSQL                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2024 00:59:19 UTC
+ Last Updated on 02/05/2024 00:56:00 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
