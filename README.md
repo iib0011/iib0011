@@ -15,11 +15,11 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C329%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C331%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 308.7 kB Used in GitHub's Storage 
+> 📦 308.8 kB Used in GitHub's Storage 
  > 
 > 🏆 749 Contributions in the Year 2024
  > 
@@ -56,17 +56,17 @@ Sunday                   1970 commits        ████░░░░░░░�
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-TypeScript               14 hrs 53 mins      █████████████████░░░░░░░░   69.40 % 
-Java                     5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-XML                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-textmate                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TypeScript               14 hrs 11 mins      ████████████████░░░░░░░░░   64.96 % 
+Java                     6 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.22 % 
+XML                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Intellijidea             21 hrs 27 mins      █████████████████████████   100.00 % 
+Intellijidea             21 hrs 50 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +86,7 @@ PLpgSQL                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2024 00:57:09 UTC
+ Last Updated on 18/05/2024 00:56:29 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
