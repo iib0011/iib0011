@@ -15,7 +15,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C702%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C705%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -56,17 +56,17 @@ Sunday                   2557 commits        ████░░░░░░░�
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-TypeScript               12 hrs 40 mins      ██████████████████░░░░░░░   73.50 % 
-Java                     4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               15 hrs 12 mins      ███████████████████░░░░░░   75.74 % 
+Java                     4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Image (svg)              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 14 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            20 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +86,7 @@ PLpgSQL                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2024 01:01:32 UTC
+ Last Updated on 18/08/2024 01:06:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
