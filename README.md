@@ -15,13 +15,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C743%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C743%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 309.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,483 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -56,17 +56,17 @@ Sunday                   2852 commits        ████░░░░░░░�
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-TypeScript               4 hrs 18 mins       ██████████████░░░░░░░░░░░   57.49 % 
-Java                     2 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   38.15 % 
-XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+TypeScript               4 hrs 18 mins       █████████████░░░░░░░░░░░░   52.66 % 
+Java                     3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   41.27 % 
+XML                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 29 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            8 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +86,7 @@ PLpgSQL                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2024 01:11:45 UTC
+ Last Updated on 09/09/2024 01:08:52 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
