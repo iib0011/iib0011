@@ -15,13 +15,11 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C221%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C227%20hrs%2052%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 359.7 kB Used in GitHub's Storage 
- > 
-> 🏆 76 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -56,17 +54,17 @@ Sunday                   2615 commits        ████░░░░░░░�
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-TypeScript               14 hrs 8 mins       ███████████████░░░░░░░░░░   59.50 % 
-Java                     7 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.96 % 
-XML                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Properties               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Java Properties          19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+TypeScript               14 hrs 38 mins      ███████████████░░░░░░░░░░   60.03 % 
+Java                     6 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+XML                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-IntelliJ IDEA            23 hrs 45 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            24 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +84,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2025 01:13:26 UTC
+ Last Updated on 12/01/2025 01:18:32 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
