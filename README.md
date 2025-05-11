@@ -15,13 +15,11 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C813%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C818%20hrs%2043%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 361.5 kB Used in GitHub's Storage 
- > 
-> 🏆 1,341 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -73,7 +71,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2025 01:20:46 UTC
+ Last Updated on 11/05/2025 01:27:36 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
