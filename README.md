@@ -8,7 +8,7 @@
 ![Waka Readme](https://github.com/iib0011/iib0011/workflows/Waka%20Readme/badge.svg)
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊. I'm also looking for job. You can contact me: ibracool99@gmail.com</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊. I'm also looking for a job. You can contact me: ibracool99@gmail.com</em>
 
 ---
 <!--START_SECTION:waka-->
