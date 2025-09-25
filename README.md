@@ -18,7 +18,7 @@
 
 > 📦 507.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,675 Contributions in the Year 2025
+> 🏆 2,680 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -26,6 +26,33 @@
  > 
 > 🔑 69 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3248 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+🌆 Daytime                14801 commits       ████████░░░░░░░░░░░░░░░░░   32.36 % 
+🌃 Evening                19175 commits       ██████████░░░░░░░░░░░░░░░   41.92 % 
+🌙 Night                  8513 commits        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   6560 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Tuesday                  6959 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Wednesday                6911 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Thursday                 7461 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Friday                   7151 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Saturday                 4248 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Sunday                   6447 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Casablanca
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -43,7 +70,7 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2025 01:23:04 UTC
+ Last Updated on 25/09/2025 01:20:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
