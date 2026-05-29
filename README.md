@@ -12,8 +12,6 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C325%20hrs%2029%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 509.9 kB Used in GitHub's Storage 
@@ -26,33 +24,6 @@
  > 
 > 🔑 71 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                6137 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-🌆 Daytime                25657 commits       ████████░░░░░░░░░░░░░░░░░   31.23 % 
-🌃 Evening                32967 commits       ██████████░░░░░░░░░░░░░░░   40.13 % 
-🌙 Night                  17391 commits       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   11679 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Tuesday                  12819 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Wednesday                11890 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Thursday                 12519 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Friday                   13449 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Saturday                 8390 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Sunday                   11406 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Casablanca
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -70,7 +41,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 03:08:37 UTC
+ Last Updated on 29/05/2026 03:11:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
