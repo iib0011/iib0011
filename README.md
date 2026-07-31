@@ -12,15 +12,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C410%20hrs%2052%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C413%20hrs%2017%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 510.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,002 Contributions in the Year 2026
+> 🏆 2,015 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -32,19 +30,19 @@
 
 ```text
 🌞 Morning                6601 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-🌆 Daytime                28100 commits       ████████░░░░░░░░░░░░░░░░░   31.50 % 
-🌃 Evening                35837 commits       ██████████░░░░░░░░░░░░░░░   40.17 % 
+🌆 Daytime                28113 commits       ████████░░░░░░░░░░░░░░░░░   31.51 % 
+🌃 Evening                35837 commits       ██████████░░░░░░░░░░░░░░░   40.16 % 
 🌙 Night                  18676 commits       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   12808 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Monday                   12808 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 Tuesday                  13997 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Wednesday                12959 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Thursday                 13494 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Friday                   14878 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Saturday                 8945 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Wednesday                12959 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Thursday                 13494 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Friday                   14891 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Saturday                 8945 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 Sunday                   12133 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 ```
 
@@ -53,28 +51,6 @@ Sunday                   12133 commits       ███░░░░░░░░�
 
 ```text
 🕑︎ Time Zone: Africa/Casablanca
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 5 mins (52.95%)
-
-✍️ 8,895 lines written by AI, 524 lines written by hand (94.44% AI-written)
-
-🔤 2,383,981 Input Tokens, 239,279 Output Tokens
-
-💵 $10.74 Estimated AI Cost This Week
-
-🧠 57 AI Sessions, 102 AI Prompts
-
-Opencode-Cli             9,232 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.44% of written lines came from AI
-📝 Concise Prompter — average 494 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 58.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,7 +70,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/iib0011/iib0011/master/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 02:46:54 UTC
+ Last Updated on 31/07/2026 19:06:49 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/iib0011/waka-readme-stats)**
